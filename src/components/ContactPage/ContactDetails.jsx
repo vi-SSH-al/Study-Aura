@@ -15,13 +15,13 @@ const contactDetails = [
     heading: "Visit us",
     description: "Come and say hello at our office HQ.",
     details:
-      "Horror colony,Borivali Mumbai ",
+      "StudyAura Offie, Ahmedabad",
   },
   {
     icon: "IoCall",
     heading: "Call us",
     description: "Mon - Fri From 9am to 6pm",
-    details: "+91 9823130670",
+    details: "+91 9825345818",
   },
 ]
 
